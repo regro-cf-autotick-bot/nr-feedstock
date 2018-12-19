@@ -13,7 +13,7 @@ source:
   git_rev: 8dd050aa2fbd0c1399203539c78fe7d0b29b6b9b
 
 build:
-  number: 0
+  number: 1000
   script: python setup.py install --single-version-externally-managed --record record.txt
 
 requirements:
